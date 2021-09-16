@@ -119,8 +119,6 @@ pub async fn howtohack(ctx: &Context, msg: &Message) -> CommandResult {
 
                 e.field("**Hacking is self initiative**\n", "•You should teach yourself and once you can't do  something or achieve something within that field come with questions.\n•Reality of it is, nobody will spend their valuable time mentoring someone who hasn't showed the motivation to teach himself/herself.\n•Hacking isn't a hobby/profession that will take you by the hand to walk through it.\n•It's mostly self initiative and motivation to achieve something.\n•We're ready to help you with a question related to a specific field, however we really aren't the people atleast I am not that will take you by the hand to walk you through.", false);
 
-                e.field("**You cannot learn everything there is to know about hacking**", "There's not a jack of all trades course, you pick up something and start learning bit by bit, whenever you're stuck after doing proper research people can provide advice and guidance if that's the case", false);
-
                 e.field("**War Games**", "There is a list of war games.\n•Get some books, and read, watch some online tutorials.\n•You can also do some vulnhub if you can't get into HackTheBox right away.\n•There are many writeups available to see how others have done some vms.\n•The biggest resource will be google , get used to searching for the correct terms , and also how to effectively search on Google , 80% will be googling exploits etc.\n•And lastly, enumerate, the most important step is enumeration.", false);
 
                 e.field("**List Of Wargames**", "[Click for a list of wargames](https://cdn.discordapp.com/attachments/429676012129746944/654913326266187808/wargames-1.md)", false);
